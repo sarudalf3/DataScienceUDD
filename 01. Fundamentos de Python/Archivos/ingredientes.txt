@@ -1,0 +1,12 @@
+Tomate 5
+Lechuga 2
+Hamburguesa 10
+Carne 1
+Espárragos 8
+Papas 4
+Pan 7
+Huevo 5
+Zanahoria 2
+Cebolla 4
+Arroz 3
+lentejas 2
